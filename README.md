@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SaeedRT
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning react 
 - 💞️ I’m looking to collaborate on android and iOS projects
 - 📫 saeedtavallaee@gmaill.com
 
